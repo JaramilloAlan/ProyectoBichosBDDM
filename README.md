@@ -1,2 +1,0 @@
-# ProyectoBichosBDDM
-Registro-Externos
